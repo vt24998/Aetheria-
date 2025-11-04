@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Aetheria - Personal AI Assistant",
+  "description": "A friendly, voice-powered personal assistant built with the Gemini Live API. Engage in natural conversations, ask questions, and get help in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
